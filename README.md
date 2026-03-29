@@ -1,6 +1,6 @@
 # AUTOMATED-REPORT-GENERATION
 
-## 🏢 Internship Details
+
 - **Company Name:** CODTECH IT SOLUTIONS  
 - **Name:** Uday Kumar Rapelli  
 - **Intern ID:** CTIS6667  
@@ -28,3 +28,7 @@ It reads data from a CSV file, performs analysis, and generates a formatted PDF 
 - Python
 - Pandas
 - ReportLab
+
+---
+
+<img width="883" height="859" alt="Image" src="https://github.com/user-attachments/assets/f201c337-0bc7-45c2-90a7-e90ccfbae628" />
